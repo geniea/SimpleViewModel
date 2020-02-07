@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Simple ViewModel</string>
+    <string name="zero">0</string>
+    <string name="plus_one">++</string>
 </resources>
