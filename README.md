@@ -1,4 +1,4 @@
-# Android Architecture \[ ViewModel ]
+# \[Kotlin]Android Architecture ::ViewModel
 
 ## Activity Lifecycle과 ViewModel
 
